@@ -1,6 +1,6 @@
 ## Hi👋 I'm Hariharaswamy!
 
-MERN Stack Developer 
+Full Stack Developer 
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">                                               
 - 🌱 Currently learning Data Structures and Algorithms to strengthen my problem-solving skills.
 - 💻 Passionate MERN Stack Developer with hands-on experience in building dynamic web applications.
